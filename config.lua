@@ -1,5 +1,5 @@
 Config = {
-    webhookURL = 'https://discord.com/api/webhooks/1163070124824207390/44oEXeH4ds_Zf9rIDVf-OEul26UGAgyUOOWdmhZUcE85leQ1IpHTVXlr-EiyKq4huwDK',
+    webhookURL = '',
     prefix = '^5[^1911^5] ^3';
     roleList = { -- replace the 1 with the role id
         ['SAHP'] = 1,
