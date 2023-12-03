@@ -20,9 +20,9 @@ https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805
 **Found in the config.lua file:**
 
 ```LUA
---- CONFIG ---
+-- CONFIG --
 Config = {
-    webhookURL = '',
+    webhookURL = 'https://discord.com/api/webhooks/1163070124824207390/44oEXeH4ds_Zf9rIDVf-OEul26UGAgyUOOWdmhZUcE85leQ1IpHTVXlr-EiyKq4huwDK',
     prefix = '^5[^1911^5] ^3';
     roleList = { -- replace the 1 with the role id
         ['SAHP'] = 1,
@@ -30,14 +30,20 @@ Config = {
         ['BCPD'] = 1,
         ['CO'] = 1,
         ['Fire & EMS'] = 1,
-        },
+    },
+
+    
+    --------------
+    -- ACE PERM --
+    --------------
+
     respAce = "BADGER-911.Respond",
 
     --------------
     -- COMMANDS --
     --------------
-    
-    nineoneoneCommand = "911", -- the 911 Command
+
+    emergencyCommand = "911", -- the 911 Command
     respondCommand = "resp" -- the respond command
 }
 ```
