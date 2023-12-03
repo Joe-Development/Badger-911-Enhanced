@@ -44,10 +44,6 @@ Config = {
 
 Replace the 1s with the role IDs of your corresponding discord roles... (You should all know the drill by now)
 
-## Download
-
-https://github.com/JaredScar/Badger-911/
-
 ## Credits
 
 - https://github.com/JaredScar/
