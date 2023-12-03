@@ -19,7 +19,7 @@ https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805
 
 **Found in the config.lua file:**
 
-```
+```LUA
 --- CONFIG ---
 Config = {
     webhookURL = '',
