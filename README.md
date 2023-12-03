@@ -17,7 +17,7 @@ https://forum.cfx.re/t/discord-roles-for-permissions-im-creative-i-know/233805
 
 ## Configuration
 
-**Found in the server.lua file:**
+**Found in the config.lua file:**
 
 ```
 --- CONFIG ---
