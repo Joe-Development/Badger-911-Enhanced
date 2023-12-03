@@ -47,3 +47,8 @@ Replace the 1s with the role IDs of your corresponding discord roles... (You sho
 ## Download
 
 https://github.com/JaredScar/Badger-911/
+
+## Credits
+
+- https://github.com/JaredScar/
+- https://docs.badger.store/
