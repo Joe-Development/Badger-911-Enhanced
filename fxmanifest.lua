@@ -5,7 +5,6 @@ description 'Badger-911 Enhanced'
 version '1.2.1'
 
 client_scripts {
-    "config.lua",
     "client.lua"
 } 
 
